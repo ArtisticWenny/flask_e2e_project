@@ -1,1 +1,6 @@
-
+[defaults]
+group = 504class
+sku = B1
+appserviceplan = wenchelle.jean_asp_2336
+location = eastus
+web = finalhhaproject
