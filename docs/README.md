@@ -6,13 +6,13 @@ The product was designed to allow the user to look up deaths in any state.
 - Create Azure server
 ![](https://github.com/artisticwenny/flask_e2e_project/blob/main/docs/FlexibleServer.png)
 # GCP imports
-# Create templates folder
-# Create app.py with index.html file and tailwind
-# Create API keys
-# Create environments
-# Create database
+# Created templates folder
+# Created app.py with index.html file and tailwind
+# Created API keys
+# Created environments
+# Created database
 # Connect to SQLworkbench
-# Create google OAUTH
+# Created google OAUTH
 ![](https://github.com/artisticwenny/flask_e2e_project/blob/main/docs/OAuth.png)
 # Connect to Sentry.io
 ![](https://github.com/artisticwenny/flask_e2e_project/blob/main/docs/Sentry.io.png)
