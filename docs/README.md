@@ -7,7 +7,7 @@ The product was designed to allow the user to look up deaths in any state.
 ![](https://github.com/artisticwenny/flask_e2e_project/blob/main/docs/FlexibleServer.png)
 - GCP imports
 - Create templates folder
-- Create app.py with index.html file
+- Create app.py with index.html file and tailwind
 - Create API keys
 - Create environments
 - Create database
