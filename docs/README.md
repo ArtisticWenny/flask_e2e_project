@@ -20,11 +20,12 @@ The product was designed to allow the user to look up deaths in any state.
 1. GCP imports
 2. Created templates folder
 3. Created app.py with index.html file and tailwind
-4. Created API keys
-5. Created environments
-6. Created database
-7. Connect to SQLworkbench
-8. Created google OAUTH
+5. Created API keys
+6. Connected Docker
+7. Created environments
+8. Created database
+9. Connect to SQLAlchemy
+10. Created google OAUTH
 ![](https://github.com/artisticwenny/flask_e2e_project/blob/main/docs/OAuth.png)
 # Connect to Sentry.io
 ![](https://github.com/artisticwenny/flask_e2e_project/blob/main/docs/Sentry.io.png)
